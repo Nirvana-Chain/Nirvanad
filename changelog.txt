@@ -1,0 +1,28 @@
+Nirvanad v1.2.0 - 2024-03-07
+============================
+
+* Fixed nirvanad and nirvanaminer Go traces
+* Fixed all stability and integration tests
+* Fixed crash in nirvanaminer
+* Fixed race in gRPC client send/recv/close handler
+* Switched cointype in bip39 derivation to 121337
+* Added support for derivation path from Kaspa (wallet v1) and Nirvana (wallet v2)
+* Added code of conduct
+* Changed nirvanawallet listen port from 8082 to 9182
+* Updated Go modules and dependencies
+
+Nirvanad v1.1.0 - 2023-12-25
+============================
+
+* Max coin supply fixes
+* Docker configs
+* Rename text string kaspa to nirvana in nirvanawallet
+* Genesis hash for setup testnet, simnet & devnet for nirvana
+* Batch upstream merge including critical RPC bug
+* Additional DNS seeders and enabled testnet, simnet and devnet
+* GitHub workflow for automatic and deterministic builds
+
+Nirvanad v1.0.0 - 2023-11-15
+============================
+
+* First version
