@@ -200,9 +200,10 @@ Note: Every time you ask nirvanawallet for an address you will get a different a
 
 At this point your can close the wallet daemon, though you should keep it running of you want to be able to check your balance and make transactions
 
-## Discord
+## Telegram
 
-Join our discord server using the following link: [https://discord.gg/](https://discord.gg/)
+Join our Telegram server using the following link: [https://t.me/Nirvanad_Chain/](https://t.me/Nirvanad_Chain)
+
 
 ## Issue Tracker
 
