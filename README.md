@@ -218,3 +218,9 @@ work-in-progress.
 ## License
 
 Nirvanad is licensed under the copyfree [ISC License](https://choosealicense.com/licenses/isc/).
+
+## Donate:
+#### Your donation is our biggest motivation for open source
+- BTC：bc1qz2upj7qnw6wftpqsc5t53uexeczzdsfcxml49d
+- ETH：0x07f8dea7297651f3c9720f06d856fa99ed9aa320
+- NVA：nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj
