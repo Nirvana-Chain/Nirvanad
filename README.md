@@ -202,8 +202,8 @@ At this point your can close the wallet daemon, though you should keep it runnin
 
 ## Telegram
 
-Join our Telegram server using the following link: [https://t.me/Nirvanad_Chain/](https://t.me/Nirvanad_Chain)
-
+- Join our Telegram server using the following link: [https://t.me/Nirvanad_Chain/](https://t.me/Nirvanad_Chain)
+- 加入Telegram中文频道: [https://t.me/Nirvanad_Chain_CN/](https://t.me/Nirvanad_Chain_CN)
 
 ## Issue Tracker
 
